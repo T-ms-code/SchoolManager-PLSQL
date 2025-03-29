@@ -4,7 +4,7 @@ better, and more efficient approach, namely: using a DBMS and designing a high s
 The DBMS version used is Oracle Database 19c, the operating system is Windows 11 Home, and no virtual machine was used for the DBMS installation.
 Additionally, the allocated RAM is around 8 GB out of the 16 GB available on the PC.
 
-**Concepts used**  
+**Used concepts**  
 1) Database description  
 2) Entity-Relationship Diagram and Conceptual Diagram  
 3) Table definition with necessary constraints and data insertion  
